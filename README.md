@@ -1,2 +1,1 @@
-# preCourse-Hen
-Repositorio de prueba de curso Henr
+Este repositorio es una prueba, de como crear desde hibhub y usarlo en mi escritorio local
